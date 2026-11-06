@@ -4,42 +4,42 @@ Thank you for your interest in contributing to ORION!
 
 ORION is an independent, non-AI algorithmic project created by SK Nadeem.
 
-## How to Contribute
+## Ways to Contribute
 
-You can contribute by:
-- Reporting bugs.
-- Suggesting useful features.
-- Improving documentation.
-- Reviewing code.
-- Submitting code improvements.
-- Sharing testing results and feedback.
+- Report bugs.
+- Suggest new features.
+- Improve documentation.
+- Review code.
+- Submit code improvements.
+- Share testing results and feedback.
 
 ## Before Contributing
 
 1. Read the README.md.
 2. Check existing Issues and Discussions.
-3. Explain your proposed change before major modifications.
+3. Discuss major changes before implementation.
 4. Keep contributions focused and understandable.
 
 ## Development Guidelines
 
-- Use clear and readable Python code.
+- Write clear and readable Python code.
 - Avoid unnecessary dependencies.
 - Preserve existing functionality.
 - Explain important algorithmic changes.
-- Do not submit private datasets, credentials or personal information.
+- Never submit private datasets, credentials or personal information.
 
 ## Testing
 
-Before submitting code changes, run:
+Run the following command before submitting code changes:
 
-```bash
-python3 -m py_compile orion.py
-Include the testing steps and results in your pull request.
+    python3 -m py_compile orion.py
+
+Include your testing steps and results in your pull request.
 
 ## Pull Requests
 
 Please explain:
+
 - What you changed.
 - Why the change is useful.
 - How you tested it.
